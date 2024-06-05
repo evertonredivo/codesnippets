@@ -1,4 +1,4 @@
-// return Technique
+// return
 function hasPlayerWonTheRound(player, computer) {
   return (
     (player === "Rock" && computer === "Scissors") ||
